@@ -9,8 +9,7 @@ namespace Module21Task1
     {
 
         static void Main(string[] args)
-        {
-            
+        {          
             string text = File.ReadAllText("/Users/1/Downloads/Text1.txt");
 
             var watch1 = Stopwatch.StartNew();           
